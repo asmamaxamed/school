@@ -10,7 +10,7 @@
                    initial-scale=1.0"> 
     <title>school management</title> 
     <link rel="stylesheet" 
-          href="styles.css"> 
+          href="style1.css"> 
     <link rel="stylesheet" href="responsive.css"> 
 </head> 
   
